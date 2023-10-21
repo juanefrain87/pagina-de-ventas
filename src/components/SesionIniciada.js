@@ -63,7 +63,7 @@ const SesionIniciada = () => {
     },
     {
         id:4,
-      modelo: modelo5,
+      modelo: mdelo5,
       titulo: "angelica rodriguez",
       descripcion: "actriz venozolana nacida en 1999",
       precio: 100,
